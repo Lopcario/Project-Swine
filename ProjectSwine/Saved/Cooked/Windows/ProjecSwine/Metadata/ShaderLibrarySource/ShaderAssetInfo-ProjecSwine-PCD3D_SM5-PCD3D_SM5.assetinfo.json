@@ -2,39 +2,15 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
-			"ShaderMapHash": "621D67111EDBA892E5B55EC7B5CEBA4EF3D31A4A",
+			"ShaderMapHash": "33A5686D09C1D18BCEB3DA6B3641EB4AD4FE5F95",
 			"Assets": [
-				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "D4825CCF9B761D5687217E38A9C3495575DA8CE2",
+			"ShaderMapHash": "F7384FB0D07525DF69146A29B33B9315752ED3B5",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
-			]
-		},
-		{
-			"ShaderMapHash": "947F04D578BE29D205E14F6043050E876985C66B",
-			"Assets": [
-				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "E87EDE27690FA962A54910C6B0B9B6F44B89DA2A",
-			"Assets": [
-				"/Game/LevelPrototyping/Materials/M_PrototypeGrid"
-			]
-		},
-		{
-			"ShaderMapHash": "05239108CDBE93C1B59BE8B6E2A50B9D1622F288",
-			"Assets": [
-				"/Engine/EngineMaterials/GizmoMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "98ADB5A2C77BA315C71C262FA41BEE4244FF5E77",
-			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
 			]
 		},
 		{
@@ -44,51 +20,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "9847652313F1F58E5A56D0EAC8D72418ACD08D0C",
+			"ShaderMapHash": "05239108CDBE93C1B59BE8B6E2A50B9D1622F288",
 			"Assets": [
-				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "7DD5B8D7C98F0B470F977DD8A6A26F23611B6F0C",
-			"Assets": [
-				"/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid"
-			]
-		},
-		{
-			"ShaderMapHash": "97A1B3EE02D4F54BE5B9E68807876EBE17F4B1A0",
-			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
-			]
-		},
-		{
-			"ShaderMapHash": "1344F655435F1A3CEADBCA233B26F54978B0D08F",
-			"Assets": [
-				"/Engine/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid"
-			]
-		},
-		{
-			"ShaderMapHash": "1850B4F21F702BC51AD6BD96F347255C850ED9B5",
-			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
-			]
-		},
-		{
-			"ShaderMapHash": "1A4F64BE37955974FDF9C44EACD67CB4E018447F",
-			"Assets": [
-				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "DAD4E1D8F8B65837865BF07A317ACC915DE66A69",
-			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
-			]
-		},
-		{
-			"ShaderMapHash": "FAFD30099178BF9DADD1C5824ED2CA610D41A47E",
-			"Assets": [
-				"/Paper2D/TranslucentUnlitSpriteMaterial"
+				"/Engine/EngineMaterials/GizmoMaterial"
 			]
 		},
 		{
@@ -104,21 +38,35 @@
 			]
 		},
 		{
+			"ShaderMapHash": "947F04D578BE29D205E14F6043050E876985C66B",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "621D67111EDBA892E5B55EC7B5CEBA4EF3D31A4A",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1A4F64BE37955974FDF9C44EACD67CB4E018447F",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9847652313F1F58E5A56D0EAC8D72418ACD08D0C",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
+				"/Game/Sprites/CustomSprites/Textures/comp03_1_Mat",
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master"
+			]
+		},
+		{
 			"ShaderMapHash": "9833F8535AA7DB4101A6EDCDD980FA4AF6EDD088",
 			"Assets": [
 				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
-			]
-		},
-		{
-			"ShaderMapHash": "35E7DAE9622133ECA716DFC72231E1D35EAB61B2",
-			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
-			]
-		},
-		{
-			"ShaderMapHash": "F7384FB0D07525DF69146A29B33B9315752ED3B5",
-			"Assets": [
-				"/ControlRig/Controls/ControlRigGizmoMaterial"
 			]
 		},
 		{
@@ -128,52 +76,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "883D5CBBD2F5729FFE1C609A3E926F9D52ED7A48",
-			"Assets": [
-				"/Paper2D/OpaqueUnlitSpriteMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "E9B578659F9D2CE82037694C30B51A714618BAB4",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Main"
-			]
-		},
-		{
-			"ShaderMapHash": "FB8BAB05DDCBF2BACD350225F2411CFB0B153C34",
-			"Assets": [
-				"/Game/StarterContent/Particles/Materials/M_Radial_Gradient"
-			]
-		},
-		{
-			"ShaderMapHash": "D8296869CBEF3E732CA2A56C300B33484308E2C9",
-			"Assets": [
-				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "D083FE5A4B3BC29C4FB3AAC11409660CB7F2D957",
-			"Assets": [
-				"/Engine/VREditor/TransformGizmo/Xray",
-				"/Game/Sprites/CustomSprites/Materials/Top"
-			]
-		},
-		{
-			"ShaderMapHash": "4696EE48D4D75672692547D8965B5FE282C735AE",
-			"Assets": [
-				"/Game/StarterContent/Particles/Materials/M_smoke_subUV"
-			]
-		},
-		{
-			"ShaderMapHash": "01D973A57D93BA4E8F568BF8B4FC0BA9BF77D85D",
-			"Assets": [
-				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
-			]
-		},
-		{
-			"ShaderMapHash": "71A7751C57A7C3EEDB9A8CC69AA0898E1324A939",
-			"Assets": [
-				"/Game/StarterContent/Particles/Materials/M_Spark"
 			]
 		},
 		{
@@ -183,102 +88,25 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B947F579371E1829539872ADD84B24501906A391",
+			"ShaderMapHash": "D083FE5A4B3BC29C4FB3AAC11409660CB7F2D957",
 			"Assets": [
-				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/Sprites/CustomSprites/Materials/Top",
+				"/Game/Blueprints/Rails",
+				"/Game/Blueprints/Front",
+				"/Game/Blueprints/Back"
 			]
 		},
 		{
-			"ShaderMapHash": "FA72A9E33C85BF5478CF9BE2E27743D7F8CA57AB",
+			"ShaderMapHash": "D8296869CBEF3E732CA2A56C300B33484308E2C9",
 			"Assets": [
-				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
-			]
-		},
-		{
-			"ShaderMapHash": "E2BCA1985CE35E7B5D8BAC3742C4FD39B3C302D3",
-			"Assets": [
-				"/Engine/EngineSky/M_SimpleSkyDome"
-			]
-		},
-		{
-			"ShaderMapHash": "731F29812D11DD634C56B6341FED496FA83137D0",
-			"Assets": [
-				"/Game/Sprites/CustomSprites/Materials/slime15_Mat",
-				"/Game/Sprites/CustomSprites/Materials/rrock13_Mat",
-				"/Game/Sprites/CustomSprites/Materials/mflr8_1_Mat",
-				"/Game/Sprites/CustomSprites/Materials/rrock03_Mat",
-				"/Game/Sprites/CustomSprites/Materials/aqf076_Mat",
-				"/Game/Sprites/CustomSprites/Materials/aqf054_Mat",
-				"/Game/Sprites/CustomSprites/Materials/aqf026_Mat",
-				"/Game/Sprites/CustomSprites/Materials/aqf021_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "B667048453C976DA47CB9E3A08904565999DBA07",
-			"Assets": [
-				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/wfall3_Mat",
-				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/wfall4_Mat",
-				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/wfall1_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "F786A2DF7E1C8D0E4B1A22F853C1F57329E1966D",
-			"Assets": [
-				"/Game/Sprites/CustomSprites/BloodAndHoles/Blood/bluda0_Mat",
-				"/Game/Sprites/CustomSprites/BloodAndHoles/Blood/bludc0_Mat",
-				"/Game/Sprites/CustomSprites/BloodAndHoles/Blood/bludb0_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "5CAB4CDD732E1380864B845D6E83CDCF3250D768",
-			"Assets": [
-				"/Paper2D/DefaultLitSpriteMaterial"
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
 			]
 		},
 		{
 			"ShaderMapHash": "FDFB5B04C23092C44B9BF280A1980D583E62765D",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "8B1D67470950457AB40DC69ED67360BED6E7816B",
-			"Assets": [
-				"/Game/Sprites/CustomSprites/Materials/aqf073_Mat",
-				"/Game/Sprites/CustomSprites/Materials/ceil3_5_Mat",
-				"/Game/Sprites/CustomSprites/Materials/aqf075_Mat",
-				"/Game/Sprites/CustomSprites/Materials/ceil5_1_Mat",
-				"/Game/Sprites/CustomSprites/Materials/flat1_Mat",
-				"/Game/Sprites/CustomSprites/Materials/floor5_1_Mat",
-				"/Game/Sprites/CustomSprites/Materials/floor4_8_Mat",
-				"/Game/Sprites/CustomSprites/Materials/aqf030_Mat",
-				"/Game/Sprites/CustomSprites/Materials/aqf028_Mat",
-				"/Game/Sprites/CustomSprites/Materials/aqf029_Mat",
-				"/Game/Sprites/CustomSprites/Materials/aqf052_Mat",
-				"/Game/Sprites/CustomSprites/Materials/aqf056_Mat",
-				"/Game/Sprites/CustomSprites/Materials/aqf055_Mat",
-				"/Game/Sprites/CustomSprites/Materials/aqf069_Mat",
-				"/Game/Sprites/CustomSprites/Materials/aqf009_Mat",
-				"/Game/Sprites/CustomSprites/Materials/aqf027_Mat",
-				"/Game/Sprites/CustomSprites/Materials/aqf025_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "41FC102AB43AF1ACAB8B3014C7A1E6DF2E8692B7",
-			"Assets": [
-				"/Game/Sprites/CustomSprites/Materials/GoodMaterials/tp2_1_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "50E5884582E325AA68785ADFD313ECF392759D32",
-			"Assets": [
-				"/Engine/BasicShapes/BasicShapeMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "5C9594C8DAE5840C1083B2525CD1DAF09F9584D0",
-			"Assets": [
-				"/Game/Sprites/CustomSprites/Materials/aqf072_Mat"
 			]
 		},
 		{
@@ -289,78 +117,105 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E8E3FEB387002B5E9B967CD4D7DE5BF63F35C623",
+			"ShaderMapHash": "22EDDE09EBAAB88A6B5E5A9FBB77B1AF1163D51C",
 			"Assets": [
-				"/Game/Sprites/CustomSprites/Materials/aqf044_Mat",
-				"/Game/Sprites/CustomSprites/Materials/aqf040_Mat",
-				"/Game/Sprites/CustomSprites/Materials/aqf041_Mat"
+				"/Game/StarterContent/Particles/Materials/m_flare_01"
 			]
 		},
 		{
-			"ShaderMapHash": "EEFF7A516F79686FCAAC9A1C5300741E4601E969",
+			"ShaderMapHash": "4D45355FB59E4E38D8B0B1EB39ABB96467747F3D",
 			"Assets": [
-				"/Game/Sprites/CustomSprites/Materials/aqf050_Mat"
+				"/Game/StarterContent/Materials/M_Glass"
 			]
 		},
 		{
-			"ShaderMapHash": "FEC8B9997A0E5EEB935AE7F708437CFB9FC5FAB2",
+			"ShaderMapHash": "5DCFAA4F47E7C4967C20CDF1043FD0B15F3DCA26",
 			"Assets": [
-				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+				"/Game/StarterContent/Materials/M_Basic_Wall"
 			]
 		},
 		{
-			"ShaderMapHash": "335BF0F22DFDBC5F0E823D4C802DD395A001479B",
+			"ShaderMapHash": "432652249C0A7297DF2F8FCB36E1CE4644C3AF4F",
 			"Assets": [
-				"/Game/Sprites/CustomSprites/Materials/aqf001_Mat"
+				"/Game/StarterContent/Materials/M_Basic_Floor"
 			]
 		},
 		{
-			"ShaderMapHash": "7107B4FE8A024420BC71B071B994BEAD31747425",
+			"ShaderMapHash": "7B27E02F1AC62AB2E70C31B7F33A1807EDFD4F7D",
 			"Assets": [
-				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows"
 			]
 		},
 		{
-			"ShaderMapHash": "F2FCF7ED4A795AC44B4CC4E76B96F7FA539F2A33",
+			"ShaderMapHash": "2626E010F0732A9429D9D82B198E50E3FEE06CBB",
 			"Assets": [
-				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+				"/Game/StarterContent/Materials/M_AssetPlatform"
 			]
 		},
 		{
-			"ShaderMapHash": "98EE0EA0DA411C2EE5D0BA9548D608F730BD9F45",
+			"ShaderMapHash": "7750F6327F15379E0E902E33AE5C54DDC2C7859B",
 			"Assets": [
-				"/Engine/EngineMaterials/FlattenMaterial_VT",
-				"/Engine/EngineMaterials/FlattenMaterial"
+				"/Game/LevelPrototyping/Materials/M_Solid"
 			]
 		},
 		{
-			"ShaderMapHash": "319E6AEE7BBDA78F66CA913147BECC8032455278",
+			"ShaderMapHash": "AC4BF0B773483CEDB424201F3C309B856D1BEEED",
 			"Assets": [
-				"/Game/Sprites/CustomSprites/Materials/aqf012_Mat"
+				"/Game/FPWeapon/Materials/BaseMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "8C56F78F008D3BDF17245281D0CC198EA2F2E04F",
+			"ShaderMapHash": "D97128F8F97082B765509EA457783CD83A7ACEDB",
 			"Assets": [
-				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+				"/MeshModelingToolsetExp/Materials/SimpleBaseMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "BBC0964CA4577CA6B29C24353568A932F1FDF1C9",
+			"ShaderMapHash": "CAF3F21F12CD9298B82ECAFC15218075F6EFE5F8",
 			"Assets": [
-				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+				"/Game/Lit2DMAT"
 			]
 		},
 		{
-			"ShaderMapHash": "33A5686D09C1D18BCEB3DA6B3641EB4AD4FE5F95",
+			"ShaderMapHash": "E2BCA1985CE35E7B5D8BAC3742C4FD39B3C302D3",
 			"Assets": [
-				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+				"/Engine/EngineSky/M_SimpleSkyDome"
 			]
 		},
 		{
-			"ShaderMapHash": "B30831B67EF04362C87CC51A3CA1E6050537F3C5",
+			"ShaderMapHash": "50E5884582E325AA68785ADFD313ECF392759D32",
 			"Assets": [
-				"/Engine/EngineMaterials/BaseFlattenMaterial"
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "684EA0828D937C3286A8A427B10A407C91E976B4",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/BlackUnlitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "64F382B53F2AC6F429ED13F8BA5F7A87545E1AD2",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ChromeBall"
+			]
+		},
+		{
+			"ShaderMapHash": "29B1AFBA40B9A84F22C055F067BDF65541EA8958",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "C751949A76A449A8291C01C6001029779ED32427",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoatBlack"
+			]
+		},
+		{
+			"ShaderMapHash": "7CE07AA351489442B73D39654171DF4F85B9DA5E",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_GreyBall"
 			]
 		},
 		{
@@ -370,9 +225,1020 @@
 			]
 		},
 		{
+			"ShaderMapHash": "24F4D8AE8DF1ADAD4D7E90A6C4EF914626A3F189",
+			"Assets": [
+				"/Game/Sprites/CustomSprites/Materials/patched/bcrat32_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/bcratem1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/bfall3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/blitb0_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/blita0_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/blod64b_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/body_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/body_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/bodies_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/blutnt_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/blod64a_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/blod128b_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/blod128a_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/blitc0_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/bigwall_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/bigmural_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/bfall4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/bfall2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/bfall1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/bcrater1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/bcratel1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/arock5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/base_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/bcrat16_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/base3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/base2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/asphalt_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/arock4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/arock3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/arock2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqsect13_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqsupp01_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqsupp05_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqsupp04_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqsupp08_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqsupp12_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqtile03_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqtrim05_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqtrim08_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqtrim07_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqtrim06_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqtrim04_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqtrim03_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqtrim02_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqtrim01_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqtile02_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqtile01_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqsupp13_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqsupp11_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqsupp10_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqsupp09_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqsupp07_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqsupp06_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqsupp03_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqsupp02_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqsect16_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqsect15_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqsect14_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqrust08_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqrust10_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqsect05_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqsect04_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqsect09_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqsect12_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqsect11_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqsect10_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqsect08_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqsect07_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqsect06_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqsect03_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqsect02_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqsect01_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqrust09_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqpipe14_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqrust07_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqrust06_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqrust05_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqrust04_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqrust03_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqrust02_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqrust01_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqpipe13_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqpipe12_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqpipe11_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqpipe10_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqpipe09_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqmetl15_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqmetl16_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqmetl22_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqmetl28_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqmetl27_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqmetl33_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqpanl07_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqpanl06_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqpipe03_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqpipe08_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqpipe07_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqpipe06_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqpipe05_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqpipe04_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqpipe02_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqpipe01_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqpanl10_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqpanl09_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqpanl08_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqpanl05_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqpanl04_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqpanl03_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqpanl02_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqpanl01_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqmetl32_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqmetl31_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqmetl30_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqmetl29_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqmetl26_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqmetl25_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqmetl24_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqmetl23_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqmetl21_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqmetl20_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqmetl19_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqmetl18_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqmetl17_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqlite09_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqlite15_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqlite22_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqlite21_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqmetl05_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqmetl04_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqmetl11_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqmetl10_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqmetl14_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqmetl13_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqmetl12_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqmetl09_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqmetl08_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqmetl07_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqmetl06_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqmetl03_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqmetl02_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqmetl01_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqlite25_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqlite24_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqlite23_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqlite20_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqlite19_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqlite18_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqlite17_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqlite16_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqlite14_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqlite13_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqlite12_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqlite11_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqlite10_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/ag128_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/ag128_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqbrik02_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqbrik01_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqconc04_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqconc03_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqconc12_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqdirt02_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqdirt01_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqlite03_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqlite08_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqlite07_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqlite06_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqlite05_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqlite04_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqlite02_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqlite01_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqdirt03_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqconc18_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqconc17_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqconc16_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqconc15_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqconc14_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqconc13_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqconc11_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqconc10_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqconc09_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqconc08_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqconc07_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqconc06_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqconc05_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqconc02_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqconc01_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqbrik03_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/amod1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/altaqua_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/agm_grn_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/agm_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/agb128_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/slime12_Mat",
+				"/Game/Sprites/CustomSprites/Materials/slime11_Mat",
+				"/Game/Sprites/CustomSprites/Materials/slime10_Mat",
+				"/Game/Sprites/CustomSprites/Materials/slime08_Mat",
+				"/Game/Sprites/CustomSprites/Materials/slime07_Mat",
+				"/Game/Sprites/CustomSprites/Materials/slime06_Mat",
+				"/Game/Sprites/CustomSprites/Materials/slime05_Mat",
+				"/Game/Sprites/CustomSprites/Materials/fwater3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/fwater2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/fwater4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/fwater1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ceil4_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wolf2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wolf18_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wolf7_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/yellite3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/yeltnt_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/yellow_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/yellite2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/yellite1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wood_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wolf9_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wolf6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wolf5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wolf4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wolf3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall58_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall59_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall64_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall72_7_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall97_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wla128_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wolf11_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wolf10_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wolf17_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wolf14_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wolf13_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wolf12_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wolf1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wlitc0_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wlitb0_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wlita0_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/warnb0_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/warna0_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall97_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall97_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall79_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall78_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall76_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall72_5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall72_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall71_5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall70_9_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall70_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall70_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall70_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall69_9_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall69_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall64_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall63_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall63_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall62_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall62_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall59_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall59_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall59_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall58_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall48_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall49_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall50_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall52_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall55_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall58_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall57_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall57_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall57_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall57_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall54_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall54_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall53_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall52_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall51_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall51_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall51_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall50_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall49_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall49_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall49_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall48_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall21_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall22_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall23_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall30_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall42_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall42_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall47_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall48_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall48_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall47_5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall47_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall47_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall47_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall42_6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall42_5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall40_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall40_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall30_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall30_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall25_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall24_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall23_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall21_5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall21_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall00_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall00_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall01_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall01_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall01_a_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall03_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall02_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall04_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall04_9_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall04_7_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall05_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall04_c_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall04_b_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall04_a_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall04_5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall04_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall04_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall03_7_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall03_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall03_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall02_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall02_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall01_c_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall01_b_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall01_9_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall01_8_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall01_7_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall01_6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall01_5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall01_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall01_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall00_8_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall00_7_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall00_6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall00_5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall00_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w33_9_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w33_8_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w64b_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w73a_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w92_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w92_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w99_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w98_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/wall00_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w99_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w98_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w96_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w96_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w94_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w74b_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w74a_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w74a_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w73b_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w73a_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w67_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w67_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w65b_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w65b_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w64b_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w46_39_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w46_38_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w46_37_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w35_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w35_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/vines1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/vgcrate1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w105_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w109_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w113_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w28_5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w17_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w33_7_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w33_6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w33_5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w32_5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w32_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w32_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w32_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w31_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w31_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w28_8_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w28_7_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w28_6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w15_6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w15_5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w15_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w13_a_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w13_8_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w13_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w113_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w113_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w112_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w112_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w112_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w111_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w111_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w110_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w109_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w108_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w108_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w108_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w108_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w107_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w106_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w104_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w103_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w103_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w102_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w102_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w101_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/w101_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/tywheel1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/tywfall4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/tywfall3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/tywfall2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/tywfall1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/tyunder1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/ttall1_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/t14_5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/t14_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/tomw2_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/tomw2_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/tile_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw11_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw11_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw12_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw12_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw16_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw17_6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw19_5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw2_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw4s0_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw3s1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw3s0_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/t14_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw4s1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw2_8_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw2_7_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw2_6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw2_5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw2_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw2_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw2_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw2skull_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw2s1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw2s0_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw1skull_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw1s1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw1s0_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw19_6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw19_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw19_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw19_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw19_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw18_7_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw18_5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw17_5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw17_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw17_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw17_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw17_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw16_6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw16_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw16_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw15_6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw15_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw15_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw15_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw12_5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw12_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw11_5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sw11_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sky2b_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sky4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sky3b_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/step03_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/spine4_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/stonew5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/stonew1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/support2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/stwall_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/step10_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/step09_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/step08_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/step07_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/step06_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/step05_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/step04_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/spine3_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/spine3_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/snak8_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/snak7_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/smfiller_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/smcratg_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sky3a_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sky3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sky2d_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sky2c_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw5_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw7_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw7_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw9_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw9_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rwdmon3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rwdmon2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/saw2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sfall2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sfall1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sky2a_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sky2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sky1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/skulface_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/skirting_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/shawn03_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/shawn02_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/shawn01_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sgcrate2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sfall4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/sfall3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/saw6sd_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/saw6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/saw5sd_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/saw5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/saw4sd_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/saw4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/saw3sd_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/saw3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/saw2sd_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/saw1sd_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/saw1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rwdmon9_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rwdmon8_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rwdmon7_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rwdmon5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rwdmon4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rwdmon10_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rwdmon1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rwdm11d_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rwdm11c_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rwdm11b_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rwdm11a_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw9_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw9_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw8_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw8_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw8_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw8_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw7_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw6_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw42_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw43_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw42_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw46_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw46_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw5_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw48_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw48_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw5_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw5_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw48_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw48_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw47_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw47_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw47_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw47_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw46_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw45_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw44_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw44_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw43_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw43_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw26_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw28_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw34_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw33_6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw37_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw37_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw41_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw39_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw39_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw42_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw41_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw41_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw41_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw38_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw38_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw38_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw38_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw37_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw37_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw36_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw36_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw36_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw35_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw35_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw34_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw33_5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw33_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw33_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw33_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw33_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw32_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw31_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw31_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw31_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw30_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw30_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw30_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw28_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw28_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw28_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw27_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw27_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw26_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw26_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw26_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw18_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw1_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw21_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw24_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw25_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw25_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw25_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw25_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw24_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw24_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw24_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw23_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw23_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw23_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw23_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw22_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw22_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw22_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw21_5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw21_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw21_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw21_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw20_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw20_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw20_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw20_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw1_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw1_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw1_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw19_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw19_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw19_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw19_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/ps15a0_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/railing_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/pwhite_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/romero1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rsky2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw12_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw15_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw18_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw18_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw18_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw16_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw16_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw16_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw16_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw15_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw15_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw15_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw14_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw13_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw12_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw12_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw12_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw11_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw11_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw10_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw10_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw10_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rw10_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rsky3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rsky1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rp2_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rp2_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rp2_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rp2_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rp1_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rp1_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/rock_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/ripw15_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/redtnt2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/redrock_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/redopen_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/redlite2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/redlite1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/pston2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/ps20a0_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/ps18a0_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/pcwinl_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/pillar_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/pgreen_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/pl_20_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/pl_19_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/pl_u_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/pl_t1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/preel6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/preel5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/preel4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/preel7_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/preel3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/preel2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/preel1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/pred_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/poran_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/poison_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/pl_t_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/pl_n_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/pl_c_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/pl_a_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/pl_31_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/pl_25_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/pl_18_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/pl_10_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/pl_05_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/pl_01_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/pivy3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/pdummy_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mc11_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mc10_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mc19_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mc18_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mc8_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mc7_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mossrock_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mwall2_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/pblue_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/pblak_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/pbrick8_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/pbrick28_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/pbrick18_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/nukedge_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/natrock_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mywood_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mwall5_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mwall4_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mwall4_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mwall3_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mwall1_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mwall1_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mural2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mural1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mud_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mtnt2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mould_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mossbrk8_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mossbrik_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mosrok2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mod5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mod4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mod3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mod2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mod1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mc9_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mc6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mc5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mc4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mc3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mc20_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mc2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mc17_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mc16_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mc15_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mc14_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mc13_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mc12_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/gcratel1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/hell5_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/hell5_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/ladder16_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/hell8_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/logo5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/logo4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/mc1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/marble1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/m1_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/loop_grn_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/loop_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/longwall_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/logo3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/logo_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/lfall4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/lfall3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/lfall2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/lfall1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/hell8_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/hell8_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/hell8_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/hell6_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/hell6_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/hell6_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/grnopen_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/grnlit1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/graywide_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/graywarn_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/grayred_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/grate_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/gcrater1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/gcratem1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/drside1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/drtopsid_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/espi12_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/espi12_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/espi16_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/espi16_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/espi17_6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/espi17_5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/exit2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/exit1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/flamp_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/fireblu2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/fireblu1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/fence5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/fence4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/exit_red_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/exit_grn_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/espi19_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/espi19_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/espi19_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/espi19_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/espi18_7_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/espi18_5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/espi17_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/espi17_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/espi17_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/espi17_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/espi16_6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/espi16_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/espi15_6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/espi15_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/espi15_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/espi15_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/espi12_5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/espi12_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/espi11_5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/espi11_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/espi11_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/espi11_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/egredi_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/eggreeni_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dummy_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/duct1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/drtopfr_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/drside2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dospi3b_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dosw4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/doswx4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dowhell_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dowebr_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dowebl_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/drfront_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/downite_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dowindow_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dowday_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dotntdr_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/doswx4c_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/doswx3c_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/doswx3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/doswx2c_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/doswx2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/doswx1c_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/doswx1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dosw4c_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dosw3c_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dosw3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dosw2c_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dosw2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dosw1c_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dosw1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dospi4b_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dokodo2b_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/door15_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/door15_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/door3_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dospi2b_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dospi1b_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dosnite_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/doshell_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dosday_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dored_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dopunk4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/doortrak_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/door9_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/door9_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/door3_6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/door3_5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/door2_5_Mat",
+				"/Game/Sprites/CustomSprites/TexturesFreeDoom/patches/door2_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/door2_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/door2_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/door16_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/door15_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/door15_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/donnite_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/donhell_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/donday_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dirbri18_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dirbri1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/doehell_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/doeday_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dokodo1b_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dokgrir_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dogrnmen_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dogrmsc_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dogrid_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/doglpanl_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dogldir_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/doenite_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dobwire2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dobwire_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dlevsign_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/disaster_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dirbri28_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dirbri2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/brown2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/bul64d_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/cavern1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/concrete_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/crlwds6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/crlwdl6e_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/crwdl6d_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/crwdl6c_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/dexal_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/darkrock_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/cyl1_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/cyan_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/crwdvs3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/crwdt3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/crwds6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/crwdl6b_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/crwdl6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/crwdl12_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/crwdh6b_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/crwdh6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/crlwdt3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/crlwdl6d_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/crlwdl6c_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/crlwdl6b_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/crlwdl6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/crlwdl12_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/crlwdh6b_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/crlwdh6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/clwdvs3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/cgrate1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/ceilvine_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/cavern7_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/cavern6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/cavern5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/cavern4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/carlrt2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/carlrt1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/carllf2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/carllf1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/camo5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/camo4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/camo1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/bul64c_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/bul64b_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/bul64a_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/btntcrat_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/brown5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/brown4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/brown3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/brbrick_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/brbrik28_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/brown1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/brock28_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/brock2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/brnopen_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/brick2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/brick1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/brick_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/brbrick8_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/brbrick2_Mat"
+			]
+		},
+		{
 			"ShaderMapHash": "7EB20EC5453033A82BE10903420260D17745585E",
 			"Assets": [
 				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "B30831B67EF04362C87CC51A3CA1E6050537F3C5",
+			"Assets": [
+				"/Engine/EngineMaterials/BaseFlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FEC8B9997A0E5EEB935AE7F708437CFB9FC5FAB2",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "98EE0EA0DA411C2EE5D0BA9548D608F730BD9F45",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_VT",
+				"/Engine/EngineMaterials/FlattenMaterial"
 			]
 		},
 		{
@@ -394,27 +1260,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "57D7B3699B537F1FBBF4A79CD78A9415E9D60E5D",
-			"Assets": [
-				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "1B588B382005C064AEFDCAB9B7BD84055EDE555A",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
 			]
 		},
 		{
-			"ShaderMapHash": "AF214CB3ECBCB9C184283EA5091432D0C798D522",
+			"ShaderMapHash": "57D7B3699B537F1FBBF4A79CD78A9415E9D60E5D",
 			"Assets": [
-				"/Engine/EngineMaterials/DefaultMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "898C2E17AA378613F6C3ED35AFFDA6C8694F6581",
-			"Assets": [
-				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
 			]
 		},
 		{
@@ -424,15 +1278,907 @@
 			]
 		},
 		{
+			"ShaderMapHash": "D4825CCF9B761D5687217E38A9C3495575DA8CE2",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "898C2E17AA378613F6C3ED35AFFDA6C8694F6581",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "25CDEF20D9DF8393F220F3CAD0BAC696892C4941",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
 			]
 		},
 		{
+			"ShaderMapHash": "AF214CB3ECBCB9C184283EA5091432D0C798D522",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "8272C140F9FC8B4CB00D332A01CD8B5DB6645C9E",
 			"Assets": [
 				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8C56F78F008D3BDF17245281D0CC198EA2F2E04F",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "1F9E64B69D42C431D9135339CB179111AE5AC371",
+			"Assets": [
+				"/Game/Sprites/CustomSprites/Materials/patched/aqdoor02_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/aqdoor01_Mat",
+				"/Game/Sprites/CustomSprites/Materials/rrock12_Mat",
+				"/Game/Sprites/CustomSprites/Materials/sflr6_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/rrock20_Mat",
+				"/Game/Sprites/CustomSprites/Materials/slime09_Mat",
+				"/Game/Sprites/CustomSprites/Materials/slime7b_Mat",
+				"/Game/Sprites/CustomSprites/Materials/tlite6_6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/tlite6_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/tlite6_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/step2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/step1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/slime7a_Mat",
+				"/Game/Sprites/CustomSprites/Materials/slime16_Mat",
+				"/Game/Sprites/CustomSprites/Materials/slime14_Mat",
+				"/Game/Sprites/CustomSprites/Materials/slime13_Mat",
+				"/Game/Sprites/CustomSprites/Materials/sflr7_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/sflr7_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/sflr6_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/rrock19_Mat",
+				"/Game/Sprites/CustomSprites/Materials/rrock18_Mat",
+				"/Game/Sprites/CustomSprites/Materials/rrock17_Mat",
+				"/Game/Sprites/CustomSprites/Materials/rrock16_Mat",
+				"/Game/Sprites/CustomSprites/Materials/rrock15_Mat",
+				"/Game/Sprites/CustomSprites/Materials/rrock14_Mat",
+				"/Game/Sprites/CustomSprites/Materials/floor4_6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/floor4_5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/grnlite1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/rrock02_Mat",
+				"/Game/Sprites/CustomSprites/Materials/rrock01_Mat",
+				"/Game/Sprites/CustomSprites/Materials/rrock11_Mat",
+				"/Game/Sprites/CustomSprites/Materials/rrock10_Mat",
+				"/Game/Sprites/CustomSprites/Materials/rrock09_Mat",
+				"/Game/Sprites/CustomSprites/Materials/rrock08_Mat",
+				"/Game/Sprites/CustomSprites/Materials/rrock07_Mat",
+				"/Game/Sprites/CustomSprites/Materials/rrock06_Mat",
+				"/Game/Sprites/CustomSprites/Materials/rrock05_Mat",
+				"/Game/Sprites/CustomSprites/Materials/rrock04_Mat",
+				"/Game/Sprites/CustomSprites/Materials/mflr8_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/mflr8_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/mflr8_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/grnrock_Mat",
+				"/Game/Sprites/CustomSprites/Materials/grass2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/grass1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/gate4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/gate3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/gate2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/gate1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/f_sky1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/floor7_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/floor7_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/floor6_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/floor6_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/floor5_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/floor5_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/floor5_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/flat1_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/flat4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/flat3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/flat5_7_Mat",
+				"/Game/Sprites/CustomSprites/Materials/flat5_6c_Mat",
+				"/Game/Sprites/CustomSprites/Materials/floor1_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/floor0_7_Mat",
+				"/Game/Sprites/CustomSprites/Materials/floor0_6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/floor4_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/floor3_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/floor1_7_Mat",
+				"/Game/Sprites/CustomSprites/Materials/floor1_6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/floor0_5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/floor0_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/floor0_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/floor0_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/flat9_Mat",
+				"/Game/Sprites/CustomSprites/Materials/flat8_Mat",
+				"/Game/Sprites/CustomSprites/Materials/flat5_8_Mat",
+				"/Game/Sprites/CustomSprites/Materials/flat5_6b_Mat",
+				"/Game/Sprites/CustomSprites/Materials/flat5_6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/flat5_5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/flat5_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/flat5_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/flat5_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/flat5_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/flat5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/flat23_Mat",
+				"/Game/Sprites/CustomSprites/Materials/flat22_Mat",
+				"/Game/Sprites/CustomSprites/Materials/flat20_Mat",
+				"/Game/Sprites/CustomSprites/Materials/flat2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ceil1_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ceil4_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/cons1_9_Mat",
+				"/Game/Sprites/CustomSprites/Materials/cons1_7_Mat",
+				"/Game/Sprites/CustomSprites/Materials/fcgrate1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/dem1_6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/flat1_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/flat1_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/flat19_Mat",
+				"/Game/Sprites/CustomSprites/Materials/flat18_Mat",
+				"/Game/Sprites/CustomSprites/Materials/flat17_Mat",
+				"/Game/Sprites/CustomSprites/Materials/flat14_Mat",
+				"/Game/Sprites/CustomSprites/Materials/flat10_Mat",
+				"/Game/Sprites/CustomSprites/Materials/fcgrate2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/dem1_5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/dem1_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/dem1_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/dem1_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/dem1_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/cratop2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/cratop1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/cons1_5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/cons1_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/comp01_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ceil5_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ceil5_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ceil4_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ceil3_6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ceil3_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ceil3_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ceil3_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ceil3_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf064_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf063_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ceil1_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ceil1_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf071_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf070_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf068_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf067_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf066_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf065_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf062_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf061_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf060_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf059_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf058_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf057_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf018_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf017_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf024_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf035_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf045_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf053_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf051_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf049_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf048_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf047_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf043_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf042_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf039_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf038_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf037_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf036_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf034_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf033_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf032_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf031_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf023_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf022_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf020_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf019_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf008_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf016_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf015_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf014_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf013_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf011_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf010_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf007_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf006_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf005_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf004_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf002_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/door12_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/patched/door11_1_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "21A1D1D36876643C32985386B106B7349E42B4F3",
+			"Assets": [
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/aqcomp01_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf046_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf003_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/dosha1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/doslvr13_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/doslvr12_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/doslvr24_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/doslvr23_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/doslvr22_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/doslvr21_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/doslvr14_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/doslvr11_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/doshe1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/doshd1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/doshc1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/doshb1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/dobigtvd_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/dobigtvc_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/doblip4a_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/doblip3a_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/doblip2a_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/doblip1a_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/dobigtvb_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/dobigtva_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "98FE982E707E80E3AB338CC554D08960DAF69172",
+			"Assets": [
+				"/Game/Sprites/CustomSprites/Materials/tlite6_5_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "731F29812D11DD634C56B6341FED496FA83137D0",
+			"Assets": [
+				"/Game/Sprites/CustomSprites/Materials/slime15_Mat",
+				"/Game/Sprites/CustomSprites/Materials/rrock13_Mat",
+				"/Game/Sprites/CustomSprites/Materials/rrock03_Mat",
+				"/Game/Sprites/CustomSprites/Materials/mflr8_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf054_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf076_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf026_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf021_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "8B1D67470950457AB40DC69ED67360BED6E7816B",
+			"Assets": [
+				"/Game/Sprites/CustomSprites/Materials/floor5_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/floor4_8_Mat",
+				"/Game/Sprites/CustomSprites/Materials/flat1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ceil5_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ceil3_5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf075_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf073_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf069_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf056_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf055_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf025_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf052_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf030_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf029_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf028_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf027_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf009_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "5C9594C8DAE5840C1083B2525CD1DAF09F9584D0",
+			"Assets": [
+				"/Game/Sprites/CustomSprites/Materials/aqf072_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf074_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "E8E3FEB387002B5E9B967CD4D7DE5BF63F35C623",
+			"Assets": [
+				"/Game/Sprites/CustomSprites/Materials/aqf044_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf041_Mat",
+				"/Game/Sprites/CustomSprites/Materials/aqf040_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "EEFF7A516F79686FCAAC9A1C5300741E4601E969",
+			"Assets": [
+				"/Game/Sprites/CustomSprites/Materials/aqf050_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "534C7D7A6A6BA9822DDE775C8B7130535435A427",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_StatueGlass"
+			]
+		},
+		{
+			"ShaderMapHash": "B07ADD33FE54D5F1145E35B8E97E583DBB7E7A3B",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Statue"
+			]
+		},
+		{
+			"ShaderMapHash": "335BF0F22DFDBC5F0E823D4C802DD395A001479B",
+			"Assets": [
+				"/Game/Sprites/CustomSprites/Materials/aqf001_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "319E6AEE7BBDA78F66CA913147BECC8032455278",
+			"Assets": [
+				"/Game/Sprites/CustomSprites/Materials/aqf012_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "AC870D5818B434A5C48F7F5598C1C8E2EFA40C7E",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Heat_Distortion"
+			]
+		},
+		{
+			"ShaderMapHash": "1BD92B46B4CD3C52931F910B77E02FCA70523201",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_TableRound"
+			]
+		},
+		{
+			"ShaderMapHash": "4EFE6F11AC8894D860E7CA8AD3BBD84C8C085B61",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Brushed_Nickel"
+			]
+		},
+		{
+			"ShaderMapHash": "311674529F691ADFC0272C33EBAEF89111BD3A10",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Marble_Polished"
+			]
+		},
+		{
+			"ShaderMapHash": "55B79AC01EABD618F9947389EA15E8D67626540B",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Water_Lake"
+			]
+		},
+		{
+			"ShaderMapHash": "4696EE48D4D75672692547D8965B5FE282C735AE",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_smoke_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "C47F3C0AFE2D4EC8F70C5C3417F26D499E5B1088",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Shelf"
+			]
+		},
+		{
+			"ShaderMapHash": "71A7751C57A7C3EEDB9A8CC69AA0898E1324A939",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Spark"
+			]
+		},
+		{
+			"ShaderMapHash": "E79E73574725C85A68C20C8671332CA6C83EF0CD",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished"
+			]
+		},
+		{
+			"ShaderMapHash": "E9656975776C7225D025E6ACB012134854F6BC18",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Walnut"
+			]
+		},
+		{
+			"ShaderMapHash": "32D7B8934E25DBB1D2A66C4AB99698196ADC47DF",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Pine"
+			]
+		},
+		{
+			"ShaderMapHash": "6F2EF8C00CE1DD6EEF55A62770ADA71246659FFF",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Oak"
+			]
+		},
+		{
+			"ShaderMapHash": "9CB6A672BCFA8E74B1D7A016846B5550EA93CB24",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Panel"
+			]
+		},
+		{
+			"ShaderMapHash": "69959F54277149C80F9D6685673BDF3FDAF151D5",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse"
+			]
+		},
+		{
+			"ShaderMapHash": "2D161F5C3272441DA4455E5E805B490EEAA8CBA1",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Slate"
+			]
+		},
+		{
+			"ShaderMapHash": "D62789078758CAB4B2103D963B1499A90C80E1B6",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Sandstone"
+			]
+		},
+		{
+			"ShaderMapHash": "FB09841A6036059B40026AD15EC4762A94B83C14",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Basalt"
+			]
+		},
+		{
+			"ShaderMapHash": "FC424DDA0CB935F4FCF727E080CDF72080302419",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "C536F2CE33BF580AAE65C1220DBFC7E672205D67",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Gold"
+			]
+		},
+		{
+			"ShaderMapHash": "9F3CFABFB6CE47DAA316E4DE2398E8045ACFFE07",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Copper"
+			]
+		},
+		{
+			"ShaderMapHash": "7E256E21637C3498803039C1160E589194096C97",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Chrome"
+			]
+		},
+		{
+			"ShaderMapHash": "CD83BEEE08D8375C6EF263D21CE240C1E3D2E45E",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Burnished_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "0BC5FF3B56F59E23521E1F2A8B654A107017489D",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Fire_SubUV"
+			]
+		},
+		{
+			"ShaderMapHash": "6ED4251D480B72A1E269017A8C1CCC36AE800A7E",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Panels"
+			]
+		},
+		{
+			"ShaderMapHash": "6F65EFEFA69C5721F737EE8877F14AA7CDBA9CC4",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Tiles"
+			]
+		},
+		{
+			"ShaderMapHash": "5251D3A9FC982F61C87CAF9218A157C13415D8A1",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Dust_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "EAE20114E216017876155DFDD68492BD38990921",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Door"
+			]
+		},
+		{
+			"ShaderMapHash": "191A382A80E012B7BA7FDEFCFE9E436992FE10F9",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Grass"
+			]
+		},
+		{
+			"ShaderMapHash": "54A94DF9E64F3620BEA5FE5FC91FA5EB4C01C6B5",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Lamp"
+			]
+		},
+		{
+			"ShaderMapHash": "59C71AC4451F046BC8A33F7815746BAD032C1DAB",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Moss"
+			]
+		},
+		{
+			"ShaderMapHash": "35F07E4D7AF70471B03508D51D4DC49014C3D386",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Gravel"
+			]
+		},
+		{
+			"ShaderMapHash": "8886FA7331256EC06ED07A9258CD9A74B53B4A90",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Frame"
+			]
+		},
+		{
+			"ShaderMapHash": "86C16A43F6705B9D1A0B4E3331E0D0C6843FC3BF",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_explosion_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "D0C9B6DB7A071A23DDAB6C6C27C29BA1D57F60CB",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Poured"
+			]
+		},
+		{
+			"ShaderMapHash": "8A044A2E05C702293D51A79BA17E86D68DA5037D",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Hewn_Stone"
+			]
+		},
+		{
+			"ShaderMapHash": "1573C6F69B505AC25D9F1374766B19534885197A",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_New"
+			]
+		},
+		{
+			"ShaderMapHash": "18C6DF06A418AA3B5F6B7387CED0E24DA997DB6E",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_Beveled"
+			]
+		},
+		{
+			"ShaderMapHash": "1F2A5634D6D58E4179F566D9D6463D063994CAE6",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Cut_Stone"
+			]
+		},
+		{
+			"ShaderMapHash": "4E60C412129DF03885A39A1D31532329EAD9F6C5",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_Old"
+			]
+		},
+		{
+			"ShaderMapHash": "9F63EC742F1F1FE01DABC027685491E26C90E90C",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Bush"
+			]
+		},
+		{
+			"ShaderMapHash": "323FA7D3A25A60B4CADA3BFEC46A9DED0D456A29",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Burst"
+			]
+		},
+		{
+			"ShaderMapHash": "3C00684A15B1B15233A70834DD8C03FBFFD57722",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_CobbleStone_Rough"
+			]
+		},
+		{
+			"ShaderMapHash": "EB3489DC6D8A169726AE34C411770C91CADFF04C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Grime"
+			]
+		},
+		{
+			"ShaderMapHash": "DF4A5367AB87B828E7B4506EDD8CEA3E3005173C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_CobbleStone_Smooth"
+			]
+		},
+		{
+			"ShaderMapHash": "C6920A4F191F5008A99A77526D05733598BA46BF",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_CobbleStone_Pebble"
+			]
+		},
+		{
+			"ShaderMapHash": "2472708AB9ECE8238647FEEAB2B457BDC6C62452",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Checker_Dot"
+			]
+		},
+		{
+			"ShaderMapHash": "D61A3209301451EA4991CE41B5192953337B3EF7",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Chair"
+			]
+		},
+		{
+			"ShaderMapHash": "5D63541137955E3D87226CDC0275157B426A6BE2",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ceramic_Tile_Checker"
+			]
+		},
+		{
+			"ShaderMapHash": "13E58DEB09CA9FF1123D70044F1EC7C606C8F211",
+			"Assets": [
+				"/Game/Sprites/DevSpritesReplaceLater/RetroFPSAssets/Textures/tilingTest_MAT"
+			]
+		},
+		{
+			"ShaderMapHash": "3E441BBB4847FAC4CBDD93553CF2931B0F45C897",
+			"Assets": [
+				"/Game/Sprites/DevSpritesReplaceLater/RetroFPSAssets/Textures/wallMAT"
+			]
+		},
+		{
+			"ShaderMapHash": "B667048453C976DA47CB9E3A08904565999DBA07",
+			"Assets": [
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/wfall4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/wfall3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/wfall2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/wfall1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/tscrn8_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/tscrn7_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/tscrn6_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/tscrn5_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/tscrn4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/tscrn3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/tscrn2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/tscrn1_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "41FC102AB43AF1ACAB8B3014C7A1E6DF2E8692B7",
+			"Assets": [
+				"/Game/Sprites/CustomSprites/Materials/GoodMaterials/tp2_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/GoodMaterials/tp7_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/GoodMaterials/tp7_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/GoodMaterials/tp5_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/GoodMaterials/tp5_3_Mat",
+				"/Game/Sprites/CustomSprites/Materials/GoodMaterials/tp5_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/GoodMaterials/tp5_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/GoodMaterials/tp3_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/GoodMaterials/tp3_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/GoodMaterials/tp2_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/rw32_2_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/rw32_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/rw31_4_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/plat2_1_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/doshf1_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "F786A2DF7E1C8D0E4B1A22F853C1F57329E1966D",
+			"Assets": [
+				"/Game/Sprites/CustomSprites/BloodAndHoles/Blood/bludb0_Mat",
+				"/Game/Sprites/CustomSprites/BloodAndHoles/Blood/bludc0_Mat",
+				"/Game/Sprites/CustomSprites/BloodAndHoles/Blood/bluda0_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "0B0D759A5532AF454B89A56B2E9876D4FB6B5FFA",
+			"Assets": [
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/dotv4b_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/dotv3b_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/dotv2b_Mat",
+				"/Game/Sprites/CustomSprites/Materials/ComputerRoom/dotv1b_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "1FE71C4E82278A9ED23E1D75F3D671B5D52D753B",
+			"Assets": [
+				"/Game/Sprites/CustomSprites/Materials/patched/door2_4_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "2E9E28D08CE6288B99A3F0AEF8A9A0A325A8ABAB",
+			"Assets": [
+				"/Game/Sprites/CustomSprites/TitlingFLoorTest"
+			]
+		},
+		{
+			"ShaderMapHash": "FB8BAB05DDCBF2BACD350225F2411CFB0B153C34",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_radial_ramp",
+				"/Game/StarterContent/Particles/Materials/M_Radial_Gradient"
+			]
+		},
+		{
+			"ShaderMapHash": "35E7DAE9622133ECA716DFC72231E1D35EAB61B2",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "98ADB5A2C77BA315C71C262FA41BEE4244FF5E77",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "01D973A57D93BA4E8F568BF8B4FC0BA9BF77D85D",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "B947F579371E1829539872ADD84B24501906A391",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "8DEB6BAD256F8AFA3D3928034EBFD3F318BCE657",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Rust"
+			]
+		},
+		{
+			"ShaderMapHash": "7107B4FE8A024420BC71B071B994BEAD31747425",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "F2FCF7ED4A795AC44B4CC4E76B96F7FA539F2A33",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "BBC0964CA4577CA6B29C24353568A932F1FDF1C9",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E7ABC7AA92860CC0DCFE7729F23B2756D6B89163",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Rock"
+			]
+		},
+		{
+			"ShaderMapHash": "7E4E269A05B30F2DAEE142F0D07C126B4C464054",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Water_Ocean"
+			]
+		},
+		{
+			"ShaderMapHash": "30134493C7439F3E4643B57E4124A160CA9DAA36",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Hex_Tile"
+			]
+		},
+		{
+			"ShaderMapHash": "BE9BBE8E8069246CC986B3DFA268F7A45B8F4859",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn"
+			]
+		},
+		{
+			"ShaderMapHash": "C72A416362C034B57DF02D4004A23037AACC02D5",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_ColorGrid_LowSpec"
+			]
+		},
+		{
+			"ShaderMapHash": "E501CD193C334EE73D86FEB2AFA59D14B4DFF74E",
+			"Assets": [
+				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "5CAB4CDD732E1380864B845D6E83CDCF3250D768",
+			"Assets": [
+				"/Paper2D/DefaultLitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FA72A9E33C85BF5478CF9BE2E27743D7F8CA57AB",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "044E5BE0EA89EE39CCE62DB5441CCB89AE3F60FE",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ColorGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "75F3AA8A24DE0488C0E98387750C0169A8F6533E",
+			"Assets": [
+				"/Engine/EditorShellMaterials/M_ShellMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "883D5CBBD2F5729FFE1C609A3E926F9D52ED7A48",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FAFD30099178BF9DADD1C5824ED2CA610D41A47E",
+			"Assets": [
+				"/Paper2D/TranslucentUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1850B4F21F702BC51AD6BD96F347255C850ED9B5",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "126ABE8177D80E99254D1E4538FF98F0524351DA",
+			"Assets": [
+				"/Game/FPWeapon/Materials/M_FPGun"
+			]
+		},
+		{
+			"ShaderMapHash": "2A93FAFCCE7E391F139E50F8E014798610DA54FA",
+			"Assets": [
+				"/Game/FirstPerson/FirstPersonArms/Character/Materials/M_UE4Man_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "7B87D7F546A4E1D20EE593A2952C2B0B2FC98769",
+			"Assets": [
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI"
+			]
+		},
+		{
+			"ShaderMapHash": "7ADB3BC7F8BC62D86ACA2D13DD6F8189DD7EAC0F",
+			"Assets": [
+				"/Engine/EditorShellMaterials/MI_BaseFlat"
+			]
+		},
+		{
+			"ShaderMapHash": "DAD4E1D8F8B65837865BF07A317ACC915DE66A69",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "C3FBD5371C2A3EA5C2B438BF10ABA695CFFD1E64",
+			"Assets": [
+				"/Engine/EditorMaterials/Thumbnails/SkySphereMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "97A1B3EE02D4F54BE5B9E68807876EBE17F4B1A0",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "7DD5B8D7C98F0B470F977DD8A6A26F23611B6F0C",
+			"Assets": [
+				"/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "E87EDE27690FA962A54910C6B0B9B6F44B89DA2A",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid1",
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid",
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02"
+			]
+		},
+		{
+			"ShaderMapHash": "1D20A0E44A452CF7423518C71B07938E6CFF64AC",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark1",
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark"
+			]
+		},
+		{
+			"ShaderMapHash": "66A544F6362CBB34CDDCDD49B51F75231EAD503E",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
+			]
+		},
+		{
+			"ShaderMapHash": "1344F655435F1A3CEADBCA233B26F54978B0D08F",
+			"Assets": [
+				"/Engine/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid"
 			]
 		}
 	]
